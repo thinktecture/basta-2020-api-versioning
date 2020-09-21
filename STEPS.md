@@ -30,3 +30,4 @@ dotnet add package Microsoft.AspNetCore.Mvc.Versioning -v 4.1.1
 ## Branch advanced-customization
 
 1. WeatherForecast Controller in einen unversionierten Zustand zurück bringen und Standard-Version hinzufügen.
+2. Endpunkt aus der Versionierung ausnehmen.
