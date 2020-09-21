@@ -25,3 +25,4 @@ dotnet add package Microsoft.AspNetCore.Mvc.Versioning -v 4.1.1
 1. ReportApiVersions anschalten, um Informationen zur Version auszugeben.
 2. Versionsauswahl ändern auf Media Type.
 3. Versionsauswahl ändern auf Url-Teil.
+4. Eine Version als veraltet markieren.
